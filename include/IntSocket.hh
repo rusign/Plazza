@@ -1,0 +1,10 @@
+#ifndef CPP_PLAZZA_INTSOCKET_HH
+#define CPP_PLAZZA_INTSOCKET_HH
+
+
+class IntSocket {
+
+};
+
+
+#endif //CPP_PLAZZA_INTSOCKET_HH

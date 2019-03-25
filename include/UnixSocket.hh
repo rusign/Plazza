@@ -1,0 +1,10 @@
+#ifndef CPP_PLAZZA_UNIXSOCKET_HH
+#define CPP_PLAZZA_UNIXSOCKET_HH
+
+
+class UnixSocket {
+
+};
+
+
+#endif //CPP_PLAZZA_UNIXSOCKET_HH

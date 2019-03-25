@@ -1,0 +1,5 @@
+/home/mart_4/BEFORE_PUSH/QT/QTPlazza/toto.html  ;
+/home/mart_4/BEFORE_PUSH/QT/QTPlazza/toto.html   EMAIL_ADDRESS;
+;
+/home/mart_4/BEFORE_PUSH/QT/cpp_plazza/titi.html   EMAIL_ADDRESS;
+;
